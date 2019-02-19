@@ -3,4 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - pip:
-    - atpbar>=0.9.4
+    - atpbar>=0.9.5
