@@ -2,5 +2,4 @@ name: atpbar-environment
 channels:
   - conda-forge
 dependencies:
-  - pip:
-    - atpbar>=0.9.7
+  - atpbar>=1.0.1
