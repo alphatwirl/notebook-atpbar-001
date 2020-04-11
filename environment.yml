@@ -1,5 +1,0 @@
-name: atpbar-environment
-channels:
-  - conda-forge
-dependencies:
-  - atpbar>=1.0.1
